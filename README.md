@@ -3,3 +3,4 @@ I'll be posting my solutions to problems I've worked through using hackerrank.co
 
 ## Problems:
 - 1/20/20 - [The Staircase problem](https://www.hackerrank.com/challenges/staircase/problem)
+- 1/21/20 - Find the unique integer 
