@@ -1,5 +1,7 @@
 import java.util.Collections;
 
+/* https://www.hackerrank.com/challenges/staircase/problem */
+
 class Main {
   public static void main(String[] args) {
     // This prints out a staircase 6 stairs (hashes) high, and 6 stairs wide.

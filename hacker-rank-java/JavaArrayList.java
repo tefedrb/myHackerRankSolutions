@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.io.*;
 import java.util.*;
 
+/* https://www.hackerrank.com/challenges/java-arraylist/problem */
 
 class Main {
 
